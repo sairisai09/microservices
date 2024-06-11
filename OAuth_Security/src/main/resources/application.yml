@@ -1,0 +1,12 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: OAuth_Security
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23ligmGDOfbBwwV9k0
+            client-secret: b3291d533df5529f7efb0dedb3f0bea2d693c0da
